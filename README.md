@@ -1,6 +1,8 @@
 # PicoClick
 raspberry pi pico berakout PCB for prototyping MICROE Click boards
 
+![PicoClick PCB Front View](img/PicoClick_PCB_F.png)
+
 ---
 Features
 
