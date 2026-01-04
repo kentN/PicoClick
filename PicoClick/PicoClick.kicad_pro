@@ -512,7 +512,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "PicoClick.step",
+      "step": "../3D/PicoClick.stl",
       "svg": "",
       "vrml": ""
     },
