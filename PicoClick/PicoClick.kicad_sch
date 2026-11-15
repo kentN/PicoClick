@@ -4226,7 +4226,7 @@
 		)
 		(uuid "e2320018-0cfd-4687-9661-bc70e62422d5")
 	)
-	(label "G16_SDI0"
+	(label "G19_SDO0"
 		(at 212.09 44.45 180)
 		(effects
 			(font
@@ -4236,7 +4236,7 @@
 		)
 		(uuid "e98ad688-e94e-4d58-bb62-fed8a7a1cdbd")
 	)
-	(label "G19_SDO0"
+	(label "G16_SDI0"
 		(at 212.09 41.91 180)
 		(effects
 			(font
